@@ -7,9 +7,10 @@ Let’s create something remarkable. 😊
 
 ## 📈 Stats
 
-Check out these cool stats showing my progress and projects over the past year:
-
-![My Awesome Stats](https://api.githubtrends.io/user/svg/Ezek-iel/langs?time_range=one_year&use_percent=True&theme=dark) ![My Awesome Stats](https://api.githubtrends.io/user/svg/Ezek-iel/repos?time_range=one_year&loc_metric=changed&theme=dark)
+Check out these cool stats showing my progress and projects over the past year:  
+  
+![My Awesome Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezek-iel&theme=aura)
+![My Awesome Stats 2](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ezek-iel&theme=aura)
 
 And here's a snapshot of my overall GitHub activity:
 
