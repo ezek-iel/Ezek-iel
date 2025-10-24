@@ -21,19 +21,17 @@ And here's a snapshot of my overall GitHub activity:
 ## 💻 Technology and Languages
 
 
-I'm always exploring new technologies and languages. Here are some of my favorites:
+I'm always exploring new technologies and languages. Here are my favorites:
 
 <div style="text-align: center; padding: 4px; border-radius: 10px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50px" alt="Typescript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50px" alt="PostgreSQL"/>
-    <img src="https://github.com/user-attachments/assets/9df0163f-084d-47c3-9fc2-5c9b3585ed25" height="50px" alt="Flask"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="50px" alt="Svelte" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" height="50px" alt="Bulma" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="50px" alt="JSON"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="50px" alt="Golang" />
-    <img src="https://pocketbase.io/images/logo.svg" height="50px" alt="Pocketbase"/>
+    <a href="https://go.dev"><img height="72" alt="Go Programming Language" src="https://github.com/user-attachments/assets/df134ce3-7898-45c8-b973-1594b6219366" /><a/>
+    <a href="https://typescriptlang.org"><img width="72" height="72" alt="Typescript Programming Language" src="https://github.com/user-attachments/assets/7491d434-2e2e-499e-b8a7-d8fbcacde9b9" /><a/>
+    <a href="https://svelte.dev"><img width="72" height="72" alt="Svelte UI Framwork and Sveltekit" src="https://github.com/user-attachments/assets/f68213a2-af86-4ecc-a699-b1395d76159c" /><a/>
+    <a href="https://flask.palletsprojects.com/en/stable/"> <img width="72" height="72" alt="Flask Web Framework" src="https://github.com/user-attachments/assets/35c8e17c-b9cd-4e2b-9c14-b784126c1870" /><a/>
+    <a href="https://python.org"> <img width="72" height="72" alt="Python Programming Language" src="https://github.com/user-attachments/assets/d7a90430-b7da-47b6-acad-86995253a8fe" /><a/>
+    <a href="https://learn.microsoft.com/en-us/powershell/"> <img width="72" height="72" alt="Powershell automation scripting language" src="https://github.com/user-attachments/assets/35d7e5c7-953e-4ad1-b47f-9e6d30227595" /></a>
+    <a href="https://tailwindcss.com"><img width="72" height="72" alt="Tailwindcss" src="https://github.com/user-attachments/assets/d9048f98-aa04-4ec0-8510-eee49c6b645e" /></a>
+    <a href="https://pocketbase.io"><img width="72" height="72" alt="Pocketbase: Backend in one file" src="https://github.com/user-attachments/assets/4183c644-f78a-4259-a969-e0cde93867c3" /></a>
 </div>
 
 ---
@@ -41,6 +39,7 @@ I'm always exploring new technologies and languages. Here are some of my favorit
 ### ✒️ Certifications
 <a href="https://www.credly.com/badges/e3676d80-406a-4bb7-866c-4f81758380d0/linked_in_profile">![github-foundations (1)](https://github.com/user-attachments/assets/ad9fb763-40f3-43bd-a874-ed1fd3a8c92e)<a/>
 <a href="https://learn.microsoft.com/en-us/users/akinfenwaezekiel-2380/credentials/8a9193370ba1e599">![az-900](https://th.bing.com/th/id/OIP.OUa1Lcfrr1-vZKgQD7MNqwHaHa?w=177&h=180&c=7&r=0&o=7&pid=1.7&rm=3)<a/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AkinfenwaEzekiel-2380/CB888DB98B1C01F6?sharingId=D8B09D34E4CE7291">![ai-900](https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-100x100.png)<a/>
 ---
 
 ### 🎶 Music
