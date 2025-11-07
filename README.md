@@ -36,12 +36,6 @@ I'm always exploring new technologies and languages. Here are my favorites:
 
 ---
 
-### ✒️ Certifications
-<a href="https://www.credly.com/badges/e3676d80-406a-4bb7-866c-4f81758380d0/linked_in_profile">![github-foundations (1)](https://github.com/user-attachments/assets/ad9fb763-40f3-43bd-a874-ed1fd3a8c92e)<a/>
-<a href="https://learn.microsoft.com/en-us/users/akinfenwaezekiel-2380/credentials/8a9193370ba1e599">![az-900](https://th.bing.com/th/id/OIP.OUa1Lcfrr1-vZKgQD7MNqwHaHa?w=177&h=180&c=7&r=0&o=7&pid=1.7&rm=3)<a/>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/AkinfenwaEzekiel-2380/CB888DB98B1C01F6?sharingId=D8B09D34E4CE7291">![ai-900](https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-100x100.png)<a/>
----
-
 ### 🎶 Music
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yi42ui4e77bv6tslqls2ogn3na&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
